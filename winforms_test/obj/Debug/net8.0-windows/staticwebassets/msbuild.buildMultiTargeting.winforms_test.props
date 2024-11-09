@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\winforms_test.props" />
+</Project>
