@@ -1,0 +1,15 @@
+/home/thefish2171/Code/PlayGround/csharp/hellow/bin/Debug/net8.0/hellow
+/home/thefish2171/Code/PlayGround/csharp/hellow/bin/Debug/net8.0/hellow.deps.json
+/home/thefish2171/Code/PlayGround/csharp/hellow/bin/Debug/net8.0/hellow.runtimeconfig.json
+/home/thefish2171/Code/PlayGround/csharp/hellow/bin/Debug/net8.0/hellow.dll
+/home/thefish2171/Code/PlayGround/csharp/hellow/bin/Debug/net8.0/hellow.pdb
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/hellow.GeneratedMSBuildEditorConfig.editorconfig
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/hellow.AssemblyInfoInputs.cache
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/hellow.AssemblyInfo.cs
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/hellow.csproj.CoreCompileInputs.cache
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/hellow.sourcelink.json
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/hellow.dll
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/refint/hellow.dll
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/hellow.pdb
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/hellow.genruntimeconfig.cache
+/home/thefish2171/Code/PlayGround/csharp/hellow/obj/Debug/net8.0/ref/hellow.dll
